@@ -10,5 +10,8 @@
     "start": "node --inspect=9228"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0"
+  }
 }
